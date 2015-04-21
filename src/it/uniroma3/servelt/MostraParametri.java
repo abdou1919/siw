@@ -44,4 +44,5 @@ public class MostraParametri extends HttpServlet {
 		out.println("<li>Cognome: <b>"+cognome+"</b></li>");
 		out.println("</body>\n</html> ");
 	}
+	//premier test Git
 }
